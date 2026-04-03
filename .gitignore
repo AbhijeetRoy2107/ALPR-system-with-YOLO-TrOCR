@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+plate_dataset/
+fonts/
+trocr_alpr_final/
+weights/
+working_backup/
+
+file.synctex.gz
+file.tex
+merges.txt
+
+projectReport.pdf
+projectReport.synctex.gz
+
+report_update.pdf
+trocr_alpr_v2_final.zip
+
+
+%OUTDIR%
